@@ -2,11 +2,11 @@
 
 ## Project Features :
 
-<div>• Dagger - Hilt</div>
-<div>• Components</div>
-<div>• Lifecycle</div>
-<div>• Retrofit</div>
-<div>• Coroutines</div>
+<div>:heavy_check_mark: Dagger - Hilt</div>
+<div>:heavy_check_mark: Components</div>
+<div>:heavy_check_mark: Lifecycle</div>
+<div>:heavy_check_mark: Retrofit</div>
+<div>:heavy_check_mark: Coroutines</div>
 <div style="display: flex;">
 
 </br>
